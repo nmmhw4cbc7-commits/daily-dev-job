@@ -2,7 +2,7 @@ name: Daily Development Activity
 
 on:
   schedule:
-    - cron: "17 8 * * *"
+    - cron: "17 7 * * *"
   workflow_dispatch:
 
 permissions:
